@@ -1,7 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saksham Joshi</h1>
-- 🌱 I’m currently learning **DSA in Java**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamjosh1&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamjosh1" /> </p>
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/858428378991517366">
 
-- 📫 How to reach me **saksham981joshi@gmail.com**
+- 🌱 I’m currently learning **DSA in Java, Web Development**
+
+- 📫 How to reach me **saksham965joshi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,3 +14,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamjosh1&show_icons=true&locale=en&layout=compact" alt="sakshamjosh1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamjosh1&show_icons=true&locale=en" alt="sakshamjosh1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamjosh1&" alt="sakshamjosh1" /></p>
