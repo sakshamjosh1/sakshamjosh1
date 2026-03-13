@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamjosh1&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamjosh1" /> </p>
 
-- 🔭 I’m currently working on **RoamifyAI**
+- 🔭 I’m currently working on **IdeaGrid**
 
 - 🌱 I’m currently learning **DevOps, Full Stack, Data Structures and Algorithms**
 
