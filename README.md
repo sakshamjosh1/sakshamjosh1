@@ -3,8 +3,8 @@
 ```
 ██████████████████████████████████████████████████████████
 █                                                        █
-█        SAKSHAM JOSHI  ·  DevOps Engineer              █
-█        Building Secure, Scalable Systems              █
+█        SAKSHAM JOSHI  ·  DevOps Engineer               █
+█        Building Secure, Scalable Systems               █
 █                                                        █
 ██████████████████████████████████████████████████████████
 ```
