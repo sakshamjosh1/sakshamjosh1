@@ -15,7 +15,6 @@
   <a href="mailto:saksham965joshi@gmail.com"><img src="https://img.shields.io/badge/Email-saksham965joshi%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" /></a>
   <a href="https://linkedin.com/in/sakshamjoshii"><img src="https://img.shields.io/badge/LinkedIn-saksham--joshii-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
   <a href="https://roamifyai.tech"><img src="https://img.shields.io/badge/Portfolio-roamifyai.tech-00d4aa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" /></a>
-  <a href="https://www.leetcode.com/sakshamjosh1"><img src="https://img.shields.io/badge/LeetCode-sakshamjosh1-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=sakshamjosh1&label=Profile+Views&color=00d4aa&style=for-the-badge" />
 </div>
