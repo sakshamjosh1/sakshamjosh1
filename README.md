@@ -1,149 +1,386 @@
 <div align="center">
 
-```
-██████████████████████████████████████████████████████████
-█                                                        █
-█        SAKSHAM JOSHI  ·  DevOps Engineer               █
-█        Building Secure, Scalable Systems               █
-█                                                        █
-██████████████████████████████████████████████████████████
+```text
+██████████████████████████████████████████████████████████████
+
+        SAKSHAM JOSHI  ·  DevOps Engineer
+
+     Building Secure • Scalable • Cloud-Native Systems
+
+██████████████████████████████████████████████████████████████
 ```
 
-</div>
+<a href="mailto:saksham965joshi@gmail.com">
+<img src="https://img.shields.io/badge/Email-saksham965joshi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<div align="center">
-  <a href="mailto:saksham965joshi@gmail.com"><img src="https://img.shields.io/badge/Email-saksham965joshi%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" /></a>
-  <a href="https://linkedin.com/in/sakshamjoshii"><img src="https://img.shields.io/badge/LinkedIn-saksham--joshii-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" /></a>
-  <a href="https://roamifyai.tech"><img src="https://img.shields.io/badge/Portfolio-roamifyai.tech-00d4aa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" /></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=sakshamjosh1&label=Profile+Views&color=00d4aa&style=for-the-badge" />
+<a href="https://linkedin.com/in/sakshamjoshii">
+<img src="https://img.shields.io/badge/LinkedIn-Saksham%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://roamifyai.tech">
+<img src="https://img.shields.io/badge/Portfolio-RoamifyAI-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/sakshamjosh1">
+<img src="https://img.shields.io/badge/GitHub-sakshamjosh1-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sakshamjosh1&label=Profile%20Views&color=00c853&style=for-the-badge"/>
+
 </div>
 
 ---
 
-## `$ whoami`
-
-> **B.Tech CSE (DevOps) @ UPES, Dehradun** — graduating 2027
-
-I build and ship **production-grade systems** with a focus on CI/CD automation, container orchestration, and DevSecOps practices. Currently working on **[RoamifyAI](https://roamifyai.tech)** — a full-stack AI travel planner running on AWS with Docker, Nginx, and automated pipelines.
+# 👋 Hello!
 
 ```yaml
+name: Saksham Joshi
+
+role:
+  DevOps Engineer
+  Cloud Infrastructure Enthusiast
+
+education:
+  B.Tech Computer Science (DevOps)
+  University of Petroleum & Energy Studies
+  Graduation: 2027
+
+interests:
+  - DevOps
+  - Kubernetes
+  - Cloud Engineering
+  - Platform Engineering
+  - DevSecOps
+  - Open Source
+
 currently:
-  learning:    [ DevOps, Full Stack, DSA ]
-  building:    RoamifyAI — AI Trip Planner on AWS
-  open_to:     DevOps · Cloud · Full Stack Collabs
-  reach_me_at: saksham965joshi@gmail.com
+  building:
+    - RoamifyAI
+    - Kubernetes Homelab
+    - Open Source Contributions
+
+  learning:
+    - Kubernetes
+    - AWS
+    - Go
+    - Platform Engineering
+
+  looking_for:
+    - DevOps Internships
+    - Cloud Engineering Internships
+    - Open Source Collaborations
 ```
 
 ---
 
-## `$ cat tech-stack.yaml`
+# 💻 About Me
+
+```bash
+$ whoami
+
+DevOps engineer passionate about building production-grade infrastructure,
+automating software delivery, and deploying scalable cloud-native applications.
+
+I enjoy working with Linux, Docker, Kubernetes, Jenkins, GitHub Actions,
+Terraform, AWS and modern DevSecOps tooling.
+
+Currently building production-inspired projects while actively contributing
+to Open Source and preparing for Software & DevOps Engineering roles.
+```
+
+---
+
+# ⚡ Tech Stack
 
 ```yaml
-devops_and_cloud:
-  containers:     [ Docker, Kubernetes ]
-  ci_cd:          [ Jenkins, GitHub Actions ]
-  iac:            [ Terraform, Ansible ]
-  cloud:          [ AWS ]
-  web_server:     [ Nginx ]
+cloud:
+  - AWS
+
+containers:
+  - Docker
+  - Kubernetes
+
+ci_cd:
+  - Jenkins
+  - GitHub Actions
+
+infrastructure_as_code:
+  - Terraform
+  - Ansible
 
 devsecops:
-  scanning:       [ Trivy ]          # container image vulnerability scanning
-  analysis:       [ SonarQube ]      # static code analysis & quality gates
+  - SonarQube
+  - Trivy
 
-languages:        [ Java, Python, TypeScript ]
+web:
+  - Nginx
+
+languages:
+  - Java
+  - Python
+  - TypeScript
+  - Bash
 
 frontend:
-  frameworks:     [ React.js, Next.js ]
-  styling:        [ TailwindCSS, ShadCN/UI ]
+  - React
+  - Next.js
+  - TailwindCSS
+  - ShadCN/UI
 
-databases:        [ MySQL, MongoDB, ConvexDB ]
+backend:
+  - FastAPI
 
-tools:            [ Git, GitHub, Linux, Maven, Postman, Agile ]
+databases:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
+  - Convex
+
+observability:
+  - Prometheus
+  - Grafana
+
+tools:
+  - Linux
+  - Git
+  - GitHub
+  - Maven
+  - Postman
 ```
 
 ---
 
-## `$ ls -la projects/`
+# 🚀 Featured Projects
 
-<details>
-<summary><b>🔒 Automated DevSecOps Pipeline</b> — Jenkins · Docker · SonarQube · Trivy · Maven</summary>
-<br/>
+## 🌍 RoamifyAI
 
-> Full CI/CD pipeline with integrated security gates for a Java application.
+> **AI-powered Travel Planner**
 
-- Designed **multi-stage Jenkins pipeline**: Build → Test → Security Scan → Deploy
-- Integrated **SonarQube** for static code analysis + quality gates
-- Used **Trivy** for container image vulnerability scanning
-- Automated **Docker image builds** with signed pushes to Docker Hub
-- Simulated real-world DevSecOps enforcement at every pipeline stage
-
-</details>
-
-<details>
-<summary><b>✈️ RoamifyAI</b> — Next.js · Docker · AWS · Nginx · CI/CD</summary>
-<br/>
-
-> Full-stack AI travel planning platform — live at [roamifyai.tech](https://roamifyai.tech)
-
-- Deployed on **AWS**, containerized with **Docker**, served via **Nginx** reverse proxy with SSL (Certbot)
-- Built automated **CI/CD pipelines** for production-grade cloud hosting
-- Integrated **Mapbox**, **Google Places API**, **Clerk Auth**, and **ConvexDB**
-- Real-time itinerary visualization with interactive map rendering
-
-</details>
-
----
-
-## `$ cat experience.log`
+**Tech Stack**
 
 ```
-[Feb 2025 – Aug 2025]  Tech & Ops Lead @ Bartanwala
-                       → End-to-end deployment & version control via Git/GitHub
-                       → Configured CI/CD for automated Shopify platform delivery
-                       → SEO & branding optimizations → expanded product reach
+Next.js • Docker • AWS • Nginx • GitHub Actions
+Mapbox • ConvexDB • Clerk • OpenAI
+```
 
-[Jun 2025 – Jul 2025]  Summer Intern (Web Dev) @ Nivy Accounting Services
-                       → Built & deployed responsive websites (HTML/CSS/JS/WordPress)
-                       → Client-facing UI/UX + SEO improvements
+### Features
+
+- 🤖 AI generated travel itineraries
+- 🗺️ Interactive Maps
+- 🔒 HTTPS using Certbot
+- 🐳 Dockerized Deployment
+- ☁️ Hosted on AWS
+- ⚡ Automated CI/CD
+- 🌐 Production Ready Infrastructure
+
+---
+
+## 🔐 Automated DevSecOps Pipeline
+
+> **Production-inspired Secure CI/CD Pipeline**
+
+**Tech Stack**
+
+```
+Jenkins • Docker • Maven • SonarQube • Trivy
+```
+
+### Features
+
+- ✅ Automated Build Pipeline
+- ✅ Unit Testing
+- ✅ Static Code Analysis
+- ✅ Quality Gates
+- ✅ Container Image Scanning
+- ✅ Docker Image Publishing
+
+---
+
+## ☸️ Kubernetes Homelab *(Work in Progress)*
+
+Building a production-inspired local infrastructure.
+
+```
+K3s
+Prometheus
+Grafana
+PostgreSQL
+Nginx
+GitOps
+```
+
+Current Goals
+
+- Kubernetes
+- Monitoring
+- Logging
+- GitOps
+- Production Networking
+- Infrastructure Automation
+
+---
+
+# 💼 Experience
+
+```text
+2026 - Present
+
+Software Engineering Intern
+Xebia
+
+→ Enterprise Frontend Development
+→ React + TypeScript
+→ API Integration
+→ Production UI Components
+
+───────────────────────────────────────
+
+2025
+
+Tech & Operations Lead
+Bartanwala
+
+→ Git & GitHub Workflows
+→ Deployment Automation
+→ Shopify Platform Management
+→ CI/CD Implementation
+
+───────────────────────────────────────
+
+Summer Web Development Intern
+Nivy Accounting Services
+
+→ Responsive Websites
+→ HTML • CSS • JavaScript
+→ WordPress
+→ SEO Optimization
 ```
 
 ---
 
-## `$ cat certifications.txt`
+# 🌍 Open Source
 
-| Badge | Issuer | Status |
-|-------|--------|--------|
-| 🐙 GitHub Foundations | GitHub | ✅ Certified |
-| 🐧 Intro to DevOps & SRE | Linux Foundation | ✅ Certified |
-| ☁️ AWS Cloud Practitioner | AWS | 🔄 In Progress |
-| 🗄️ SQL Badge (×3) | HackerRank | ✅ Earned |
+```bash
+$ git remote -v
+
+✓ Active Open Source Contributor
+
+Current Interests
+
+• ArgoCD
+• Kubernetes
+• CNCF Projects
+• Platform Engineering
+• DevOps Tooling
+
+OSCI 2025 Contributor
+```
 
 ---
 
-## `$ cat leadership.md`
+# 🏆 Certifications
 
-- 🎨 **Associate Design Head** — Microsoft Technical Community *(Jan 2025 – Present)*
-- ⚙️ **Associate Technical Head** — IET Students Community *(Mar 2025 – Oct 2025)*
-- 💻 **Core Committee Member** — Computer Society of India *(Jan 2025 – Present)*
-- 🌐 **Active Open Source Contributor** — OSCI 2025
-- 🏆 **Hackathon Participant** — Smart India Hackathon (SIH) & Techstars Startup Hackathon
+| Certification | Status |
+|---------------|--------|
+| GitHub Foundations | ✅ |
+| Linux Foundation - Introduction to DevOps & SRE | ✅ |
+| Salesforce Agentblazer Champion 2026 | ✅ |
+| HackerRank SQL (3 Badges) | ✅ |
+| AWS Cloud Practitioner | 🚧 In Progress |
 
 ---
 
-## `$ git log --stat`
+# 🎯 Leadership
+
+```text
+Managerial Director
+Microsoft Technical Community
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Associate Technical Head
+IET Students Chapter
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Core Committee Member
+Computer Society of India
+```
+
+---
+
+# 📚 Currently Exploring
+
+```yaml
+focus:
+
+  - Kubernetes
+  - AWS
+  - GitOps
+  - Platform Engineering
+  - Cloud Native Infrastructure
+  - Open Source Contributions
+```
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sakshamjosh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamjosh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakshamjosh1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamjosh1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sakshamjosh1&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamjosh1&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
+---
+
+# 📈 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamjosh1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sakshamjosh1&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+💼 Open to **DevOps**, **Cloud**, **Platform Engineering**, and **Software Engineering** internships.
+
+<a href="mailto:saksham965joshi@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sakshamjoshii">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://roamifyai.tech">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>📍 Dehradun, Uttarakhand &nbsp;·&nbsp; Open to DevOps & Cloud Internships &nbsp;·&nbsp; <a href="mailto:saksham965joshi@gmail.com">Let's connect</a></sub>
+
+### ⚡ *"Automating today for a scalable tomorrow."*
+
 </div>
