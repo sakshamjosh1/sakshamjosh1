@@ -3,7 +3,7 @@
 ```text
 ██████████████████████████████████████████████████████████████
 
-        SAKSHAM JOSHI  ·  DevOps Engineer
+        SAKSHAM JOSHI · DevOps Engineer
 
      Building Secure • Scalable • Cloud-Native Systems
 
@@ -11,19 +11,15 @@
 ```
 
 <a href="mailto:saksham965joshi@gmail.com">
-<img src="https://img.shields.io/badge/Email-saksham965joshi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-saksham965joshi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/sakshamjoshii">
-<img src="https://img.shields.io/badge/LinkedIn-Saksham%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Saksham%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://roamifyai.tech">
-<img src="https://img.shields.io/badge/Portfolio-RoamifyAI-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/sakshamjosh1">
-<img src="https://img.shields.io/badge/GitHub-sakshamjosh1-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Portfolio-RoamifyAI-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
@@ -45,22 +41,13 @@ role:
 
 education:
   B.Tech Computer Science (DevOps)
-  University of Petroleum & Energy Studies
+  UPES, Dehradun
   Graduation: 2027
-
-interests:
-  - DevOps
-  - Kubernetes
-  - Cloud Engineering
-  - Platform Engineering
-  - DevSecOps
-  - Open Source
 
 currently:
   building:
     - RoamifyAI
     - Kubernetes Homelab
-    - Open Source Contributions
 
   learning:
     - Kubernetes
@@ -71,7 +58,6 @@ currently:
   looking_for:
     - DevOps Internships
     - Cloud Engineering Internships
-    - Open Source Collaborations
 ```
 
 ---
@@ -81,14 +67,14 @@ currently:
 ```bash
 $ whoami
 
-DevOps engineer passionate about building production-grade infrastructure,
-automating software delivery, and deploying scalable cloud-native applications.
+DevOps engineer passionate about building production-grade
+cloud infrastructure and automating secure software delivery.
 
-I enjoy working with Linux, Docker, Kubernetes, Jenkins, GitHub Actions,
-Terraform, AWS and modern DevSecOps tooling.
+I enjoy working with Linux, Docker, Kubernetes, Jenkins,
+GitHub Actions, Terraform, AWS and modern DevSecOps tooling.
 
-Currently building production-inspired projects while actively contributing
-to Open Source and preparing for Software & DevOps Engineering roles.
+Currently building production-inspired projects while preparing
+for DevOps, Cloud and Platform Engineering roles.
 ```
 
 ---
@@ -128,7 +114,6 @@ frontend:
   - React
   - Next.js
   - TailwindCSS
-  - ShadCN/UI
 
 backend:
   - FastAPI
@@ -137,7 +122,7 @@ databases:
   - PostgreSQL
   - MySQL
   - MongoDB
-  - Convex
+  - ConvexDB
 
 observability:
   - Prometheus
@@ -157,51 +142,50 @@ tools:
 
 ## 🌍 RoamifyAI
 
-> **AI-powered Travel Planner**
+> AI-powered travel planner deployed on AWS.
 
-**Tech Stack**
+**Stack**
 
 ```
-Next.js • Docker • AWS • Nginx • GitHub Actions
-Mapbox • ConvexDB • Clerk • OpenAI
+Next.js • Docker • AWS • GitHub Actions
+Nginx • Clerk • ConvexDB • Mapbox • OpenAI
 ```
 
-### Features
+**Highlights**
 
-- 🤖 AI generated travel itineraries
-- 🗺️ Interactive Maps
-- 🔒 HTTPS using Certbot
-- 🐳 Dockerized Deployment
-- ☁️ Hosted on AWS
-- ⚡ Automated CI/CD
-- 🌐 Production Ready Infrastructure
+- 🤖 AI-generated travel itineraries
+- ☁️ Dockerized deployment on AWS
+- 🔒 HTTPS with Nginx & Certbot
+- ⚡ Automated CI/CD pipeline
+- 🗺️ Interactive map visualization
 
 ---
 
 ## 🔐 Automated DevSecOps Pipeline
 
-> **Production-inspired Secure CI/CD Pipeline**
+> Production-inspired CI/CD pipeline with integrated security.
 
-**Tech Stack**
+**Stack**
 
 ```
 Jenkins • Docker • Maven • SonarQube • Trivy
 ```
 
-### Features
+**Highlights**
 
-- ✅ Automated Build Pipeline
-- ✅ Unit Testing
-- ✅ Static Code Analysis
-- ✅ Quality Gates
-- ✅ Container Image Scanning
-- ✅ Docker Image Publishing
+- Static Code Analysis
+- Quality Gates
+- Image Vulnerability Scanning
+- Docker Image Publishing
+- Automated Build & Test Pipeline
 
 ---
 
-## ☸️ Kubernetes Homelab *(Work in Progress)*
+## ☸️ Kubernetes Homelab *(In Progress)*
 
-Building a production-inspired local infrastructure.
+Production-inspired local infrastructure for learning Kubernetes.
+
+**Current Stack**
 
 ```
 K3s
@@ -212,103 +196,13 @@ Nginx
 GitOps
 ```
 
-Current Goals
+**Currently Building**
 
-- Kubernetes
+- Kubernetes Workloads
 - Monitoring
 - Logging
-- GitOps
-- Production Networking
 - Infrastructure Automation
-
----
-
-# 💼 Experience
-
-```text
-2026 - Present
-
-Software Engineering Intern
-Xebia
-
-→ Enterprise Frontend Development
-→ React + TypeScript
-→ API Integration
-→ Production UI Components
-
-───────────────────────────────────────
-
-2025
-
-Tech & Operations Lead
-Bartanwala
-
-→ Git & GitHub Workflows
-→ Deployment Automation
-→ Shopify Platform Management
-→ CI/CD Implementation
-
-───────────────────────────────────────
-
-Summer Web Development Intern
-Nivy Accounting Services
-
-→ Responsive Websites
-→ HTML • CSS • JavaScript
-→ WordPress
-→ SEO Optimization
-```
-
----
-
-# 🌍 Open Source
-
-```bash
-$ git remote -v
-
-✓ Active Open Source Contributor
-
-Current Interests
-
-• ArgoCD
-• Kubernetes
-• CNCF Projects
-• Platform Engineering
-• DevOps Tooling
-
-OSCI 2025 Contributor
-```
-
----
-
-# 🏆 Certifications
-
-| Certification | Status |
-|---------------|--------|
-| GitHub Foundations | ✅ |
-| Linux Foundation - Introduction to DevOps & SRE | ✅ |
-| Salesforce Agentblazer Champion 2026 | ✅ |
-| HackerRank SQL (3 Badges) | ✅ |
-| AWS Cloud Practitioner | 🚧 In Progress |
-
----
-
-# 🎯 Leadership
-
-```text
-Managerial Director
-Microsoft Technical Community
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Associate Technical Head
-IET Students Chapter
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Core Committee Member
-Computer Society of India
-```
+- Production Networking
 
 ---
 
@@ -316,13 +210,11 @@ Computer Society of India
 
 ```yaml
 focus:
-
   - Kubernetes
   - AWS
   - GitOps
   - Platform Engineering
   - Cloud Native Infrastructure
-  - Open Source Contributions
 ```
 
 ---
@@ -335,52 +227,14 @@ focus:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamjosh1&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sakshamjosh1&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamjosh1&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakshamjosh1&theme=tokyonight&no-frame=true&column=7"/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-💼 Open to **DevOps**, **Cloud**, **Platform Engineering**, and **Software Engineering** internships.
-
-<a href="mailto:saksham965joshi@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sakshamjoshii">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://roamifyai.tech">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### ⚡ *"Automating today for a scalable tomorrow."*
+### 💼 Open to DevOps • Cloud • Platform Engineering Internships
+
+*"Automating today for a scalable tomorrow."*
 
 </div>
